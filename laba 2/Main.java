@@ -3,7 +3,6 @@ import java.util.Arrays;
 import java.lang.String;
 
 public class Main {
-    // Лабораторная работа №2
     static Scanner in = new Scanner(System.in);
 
     static String TaskOne(String str) {
